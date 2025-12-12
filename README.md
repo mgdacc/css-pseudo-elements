@@ -1,2 +1,2 @@
-# css-pseudo-elements
-CSS Pseudo Elements Cheat Sheet
+# CSS: Pseudo Elements
+Cheat Sheet creado por **Gemini 3 Pro** sobre los pseudo elementos en CSS.
